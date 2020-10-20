@@ -2,3 +2,8 @@
 ## The infrastructure is within CML2.0 personal lab
 ### This is pureply for my own personal development
 #### I'm studying Devnet Associate
+
+---
+- hosts: c1k1
+  tasks:
+   - name: Cisco
